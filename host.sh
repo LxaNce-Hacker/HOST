@@ -120,7 +120,7 @@ ${CG}    ██║  ██║╚██████╔╝███████║
 ${CG}    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝  ${CC}V${CB}-${CG}2.1${CY}
                                   
 ${RS}
-${CR} [${CW}~${CR}]${CY} Created By Prince ${CG}(${CC}Katiyar LxaNce)${CG})${RS}"
+${CR} [${CW}~${CR}]${CY} Created By Prince Ktr ${CG}(${CC}LxaNce)${CG})${RS}"
 
 }
 
